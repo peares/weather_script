@@ -10,7 +10,7 @@ import os
 import time
 
 # ==================== CONFIG ====================
-OWM_API_KEY = "9dfb45f2c7fdc0510bf1822fb106cadb"
+OWM_API_KEY = "ปปปปปปปปป"
 LAT = 13.95
 LON = 100.53
 STATIONS = ['22t', 'bkp120t', 'bkp74t', 'bkp97t', '13t', 'bkp98t', 'bkp130t', '20t', 'bkp73t', 'bkp75t']
